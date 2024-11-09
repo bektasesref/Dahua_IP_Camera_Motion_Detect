@@ -24,3 +24,9 @@ It used to check last time it triggered. Within that timeout time, it does not p
 
 # Why not to use SmartPSS / Camera's own triggers?
 I needed a python shit to do afterwards. Actually, i built this program within 1-2 hour to send a WhatsApp message to my friend when i perform thumbs up gesture on Valorant Agent Selection scene. Wait-what? Yep. My mates says me "notify me when it finds a match" every time. Just because my phone is not near when i play Valorant, i had to use a trigger when just sitting on my chair. So i decided to make a thumbs up gesture and notify them :)
+
+Video:
+
+
+https://github.com/user-attachments/assets/36c13eb2-26f7-451a-91eb-a81355fd9359
+
